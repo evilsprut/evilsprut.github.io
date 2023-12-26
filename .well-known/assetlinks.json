@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.morizo.clatch",
+      "sha256_cert_fingerprints": [
+        "AD:29:55:71:0A:16:28:5D:9D:71:77:49:EF:6C:35:9D:85:48:F2:6B:BC:CD:D6:51:4B:61:0F:37:9B:FA:7C:BA"
+      ]
+    }
+  }
+]
